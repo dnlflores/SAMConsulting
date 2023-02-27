@@ -1,0 +1,76 @@
+.contact-header {
+    background-image: url("https://images.unsplash.com/photo-1560964645-5296b5099677?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8");
+    background-repeat: no-repeat;
+    background-position: 0;
+    background-size: cover;
+    height: 23rem;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.contact-title {
+    margin: 0;
+    color: white;
+    font-size: 55px;
+    padding-bottom: 5rem;
+}
+
+.form-sect {
+    height: 55rem;
+    padding: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.form-container {
+    background-color: #1A1E31;
+    width: 28rem;
+    height: 25rem;
+    margin-left: 10rem;
+    color: #8C52FF;
+    justify-content: space-between;
+    padding: 3rem;
+    font-size: 21px;
+}
+
+.address p,
+.email p {
+    margin: 0;
+    text-align: left;
+}
+
+.first-last-input input {
+    width: 24rem;
+    height: 2rem;
+}
+
+input.first {
+    margin-right: 1.5rem;
+}
+
+.start-form {
+    width: 45rem;
+}
+
+.form-field {
+    margin: 1.5rem;
+}
+
+.form-field input {
+    height: 2rem;
+}
+
+.form-field textarea {
+    height: 10rem;
+}
+
+.submit-btn {
+    background-color: #8C52FF;
+    border-radius: 5px;
+    color: white;
+    width: 5rem;
+    height: 2.5rem;
+    text-align: center;
+    margin-left: 1.5rem;
+}

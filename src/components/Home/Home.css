@@ -1,0 +1,91 @@
+.home-header {
+    background-image: url('https://img5.goodfon.com/original/2560x1440/1/f1/4k-uhd-background-blur-close-up-flower-yellow-purple-orange.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50rem;
+    color: white;
+    padding-left: 10rem;
+}
+
+.header-btns {
+    width: 25rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header-btns button {
+    background-color: #8C52FF;
+    border-radius: 5px;
+    height: 2.5rem;
+    width: 10rem;
+    cursor: pointer;
+}
+
+.image-background {
+    border: 1px solid gray;
+    box-shadow: 0 0 5px;
+}
+
+.counselor-image {
+    width: 20rem;
+    height: 30rem;
+    margin: 1rem;
+    object-fit: cover;
+    box-shadow: 0 0 5px;
+}
+
+.left-side {
+    width: 30rem;
+}
+
+.left-side p {
+    font-size: 20px;
+}
+
+.meet-sec {
+    padding: 2rem;
+    height: 50rem;
+}
+
+.title-pic {
+    width: 85rem;
+    justify-content: space-around;
+}
+
+.full-stry-btn {
+    border-radius: 5px;
+    background-color: #8C52FF;
+    color: white;
+    width: 10rem;
+    height: 2.5rem;
+    cursor: pointer;
+    margin: 2rem;
+}
+
+.faith-container {
+    background-color: #1A1E31;
+    color: white;
+    height: 50rem;
+}
+
+.bible-pic {
+    height: inherit;
+    width: 45%;
+    object-fit: cover;
+}
+
+.faith-title {
+    font-size: 35px;
+}
+
+.right-side p {
+    font-size: 20px;
+}
+
+.meet-title-div {
+    font-size: 35px;
+}
+
+.right-side {
+    padding: 2rem;
+}

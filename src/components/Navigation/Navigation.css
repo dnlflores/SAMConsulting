@@ -1,0 +1,37 @@
+.nav-bar {
+    background-color: transparent;
+    color: white;
+    height: 5rem;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    transition: background-color .5s, font-size .5s;
+}
+
+.stick {
+    background-color: #1A1E31;
+    transition: background-color .5s;
+}
+
+.logo {
+    height: 200px;
+    margin-left: 5rem;
+}
+
+.nav-links {
+    width: 50rem;
+    cursor: pointer;
+}
+
+.get-started-btn {
+    background-color: #8C52FF;
+    border-radius: 5px;
+    width: 10rem;
+    height: 2.5rem;
+}
+
+.nav-links a:hover,
+.nav-links button:hover,
+.nav-links span:hover {
+    color: gray;
+}

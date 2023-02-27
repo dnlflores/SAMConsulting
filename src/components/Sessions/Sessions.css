@@ -1,0 +1,99 @@
+.sessions-header {
+    height: 23rem;
+    background-image: url("https://images.unsplash.com/photo-1560330872-a94111c8dbcf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.sessions-title {
+    margin: 0;
+    color: white;
+    font-size: 55px;
+    padding-bottom: 5rem;
+}
+
+.rate-sect {
+    height: 55rem;
+    padding: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.right-container {
+    height: 100%;
+    text-align: left;
+    padding: 5rem;
+}
+
+.left-container {
+    height: 100%;
+    margin-top: 15rem;
+}
+
+.what-to {
+    color: #8C52FF;
+    margin-bottom: 0;;
+}
+
+.expect {
+    margin-top: 0;
+}
+
+.text {
+    font-size: 55px;
+}
+
+.right-container p,
+.right-container li {
+    max-width: 40rem;
+    font-size: 20px;
+}
+
+.rate-container {
+    background-color: #1A1E31;
+    width: 30rem;
+    height: 40rem;
+    margin-left: 10rem;
+}
+
+.rates.rate-cont-text {
+    background-color: #8C52FF;
+    color: white;
+    font-size: 35px;
+    width: 11rem;
+    height: 4rem;
+}
+
+.private-pay {
+    color: white;
+    font-size: 45px
+}
+
+.hourly.rate-cont-text {
+    color: #8C52FF;
+    font-weight: bold;
+    font-size: 55px;
+    margin: 0
+}
+
+.hourly-span {
+    font-size: 15px;
+}
+
+.session.rate-cont-text {
+    color: white;
+    font-size: 40px;
+}
+
+.accept-ins {
+    color: #8C52FF;
+    font-weight: bold;
+}
+
+.united {
+    color: #8C52FF
+}

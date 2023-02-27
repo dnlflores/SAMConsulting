@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button, a {
+  all: unset;
+}
+
+.flx-ctr {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flx-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.flx-jst-spc-btwn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flx-jst-spc-arnd {
+  display: flex;
+  justify-content: space-around;
+}
+
+.flx-algn-itm-strt {
+  display: flex;
+  align-items: flex-start;
+}
