@@ -19,8 +19,6 @@
     height: 55rem;
     padding: 5rem;
     display: flex;
-    align-items: center;
-    justify-content: space-around;
 }
 
 .right-container {
@@ -30,17 +28,23 @@
 }
 
 .left-container {
-    height: 100%;
-    margin-top: 15rem;
+    height: 50%;
+    margin-top: 5rem;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    flex-direction: column;
 }
 
 .what-to {
-    color: #8C52FF;
+    color: aqua;
     margin-bottom: 0;;
 }
 
 .expect {
-    margin-top: 0;
+    margin: 0;
 }
 
 .text {
@@ -54,18 +58,17 @@
 }
 
 .rate-container {
-    background-color: #1A1E31;
     width: 30rem;
     height: 40rem;
     margin-left: 10rem;
 }
 
 .rates.rate-cont-text {
-    background-color: #8C52FF;
     color: white;
     font-size: 35px;
-    width: 11rem;
-    height: 4rem;
+    width: 26rem;
+    margin: 0;
+    padding: 1rem;
 }
 
 .private-pay {

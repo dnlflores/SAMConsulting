@@ -3,34 +3,17 @@ export default function Rate() {
     return (
         <section className="rate-sect">
             <div className="left-container">
-                <div className="rate-container flx-col">
-                    <p className="rates rate-cont-text flx-ctr">RATES</p>
-                    <p className="private-pay rate-cont-text">PRIVATE PAY</p>
-                    <p className="hourly rate-cont-text">$125/<span className="hourly-span">HR.</span></p>
-                    <p className="session rate-cont-text">SESSION</p>
-                    <p className="accept-ins rate-cont-text">Accepted Insurances:</p>
-                    <p className="united rate-cont-text">United Healthcare</p>
-                </div>
+                <p className="rates rate-cont-text">LET US</p>
+                <p className="rates rate-cont-text">BOOST YOUR BUSINESS</p>
             </div>
             <div className="right-container">
-                <h2 className="what-to text">WHAT TO</h2>
+                <h2 className="expect text">WHAT TO</h2>
                 <h2 className="expect text">EXPECT...</h2>
                 <p>
-                    The first two to three sessions will be to develop rapport.
-                    We'll get to know each other, find out why you're hurting, and start to understand why.
-                    Then we'll start working through those issues at your pace.
-                    Sometimes, when you're stuck I will nudge you a bit so you can get some direction to move forward and reach your breakthrough.
+                    We provide a new approach to consulting and do all of the work in-house. This is a proficient way of ensuring an unbiased review of current service providers, the condition of existing locations, and their quality of work. Our service model promotes lower cost and customer satisfaction.
+                    With fifteen years of field experience in HVAC, refrigeration, and energy management along with five years of experience in operations management, we understand how the industry operates.
+                    We fulfill a variety of duties, including: attending meetings with staff to determine service needs, field verification, quality insurance, current market pricing estimates, cause of loss determination, clear recommendations, and document verification. Our approach allows us to produce high quality work in the time frames you require.
                 </p>
-                <p>Sessions will be depending on what you come in for, but I can help with:</p>
-                <ul>
-                    <li>Family Estrangement</li>
-                    <li>Depression and Anxiety</li>
-                    <li>Grief and Loss</li>
-                    <li>Childhood Trauma</li>
-                    <li>Career Burnout (post secondary trauma)</li>
-                    <li>Women's Issues</li>
-                    <li>... and more.</li>
-                </ul>
             </div>
         </section>
     )

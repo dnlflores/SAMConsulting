@@ -12,6 +12,7 @@ code {
 
 button, a {
   all: unset;
+  cursor: pointer;
 }
 
 .flx-ctr {
