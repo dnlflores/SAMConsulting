@@ -1,6 +1,5 @@
 import { useRef, useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import logo from '../../assets/logo.png'
 import './Navigation.css';
 
 export default function Navigation() {
